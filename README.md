@@ -10,5 +10,7 @@ Description: A simple shell for Unix including commands for setting variables an
 Limitations: Variable checking only checks for second character being a $
 
 To compile: 
+
 > make
+
 > ./nsh or ./nsh < foo.txt
