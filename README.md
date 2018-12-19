@@ -1,8 +1,8 @@
 # newshell
 A simple Unix shell
 
-Author: Atanas Golev
-Class: CS485
+Author: Atanas Golev \n
+Class: CS485 \n
 Date: 4/3/2017
 Instructor: Dr. Finkel
 Project: A new shell
