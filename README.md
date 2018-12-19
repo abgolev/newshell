@@ -1,7 +1,7 @@
 # newshell
 A simple Unix shell
 
-
+---
 
 Author: Atanas Golev 
 
@@ -16,6 +16,8 @@ Project: A new shell
 Description: A simple shell for Unix including commands for setting variables and executing basic commands.
 
 Limitations: Variable checking only checks for second character being a $
+
+---
 
 To compile: 
 
