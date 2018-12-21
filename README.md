@@ -15,7 +15,7 @@ Project: A new shell
 
 Description: A simple shell for Unix including commands for setting variables and executing basic commands.
 
-Limitations: Variable checking only checks for second character being a $
+Limitations: Variable checking only checks that second character of var name is $
 
 ---
 
