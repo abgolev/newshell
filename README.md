@@ -5,7 +5,7 @@ A simple Unix shell
 
 Author: Atanas Golev 
 
-Class: CS485
+Course: CS485
 
 Date: 4/3/2017
 
