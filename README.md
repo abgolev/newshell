@@ -9,7 +9,7 @@ Class: CS485
 
 Date: 4/3/2017
 
-Instructor: Dr. Finkel
+Instructor: Dr. Raphael Finkel
 
 Project: A new shell
 
