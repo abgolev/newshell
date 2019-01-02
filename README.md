@@ -15,7 +15,9 @@ Project: A new shell
 
 Description: A simple shell for Unix including commands for setting variables and executing basic commands.
 
-Limitations: Variable checking only checks that first character of var name is $
+Syntax: nshSyntax.pdf
+
+Limitations: Variables could be named anything as long as first character of var name is $
 
 ---
 
